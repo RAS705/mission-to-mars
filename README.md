@@ -49,11 +49,11 @@ Robin's next source of information for her website is the Jet Propulsion Laborat
 
 The last major piece of information that Robin wants for her website is a table with a comparison of Mars to Earth. She found the information she needs on a Mars facts website.
 
-![](Resources\mars-facts-site.png)
+<img src="Resources\mars-facts-site.png">
 
 By reading in this table, Robin is able to produce a table on her website which compares Earth to Mars. 
 
-![](Resources\mars-facts-data-frame.png)
+<img src="Resources\mars-facts-data-frame.png">
 
 
 ## Create website layout
@@ -67,13 +67,13 @@ She has laid out the website in sections:
 - A section with the latest featured picture from JPL
 - A section with the comparison table between Earth and Mars 
 
-![](Resources\storyboard-for-robin-app.png)
+<img src="Resources\storyboard-for-robin-app.png">
 
 
 ## Summary
 
 Robin is ready to see the final product. She loads the website, and presses the scrape button. The webpage gets built with the latest information and picture from the source websites Robin selected.
 
-![](Resources\news_site_1.png)
+<img src="Resources\news_site_1.png">
 
 This is amazing! Everything Robin's been working on has worked. All of the information has been collected into one location and presented in exactly the clear and concise way Robin had wanted.
