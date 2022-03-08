@@ -49,7 +49,6 @@ Robin's next source of information for her website is the Jet Propulsion Laborat
 
 The last major piece of information that Robin wants for her website is a table with a comparison of Mars to Earth. She found the information she needs on a Mars facts website.
 
-
 ![](Resources\mars-facts-site.png)
 
 By reading in this table, Robin is able to produce a table on her website which compares Earth to Mars. 
@@ -77,4 +76,4 @@ Robin is ready to see the final product. She loads the website, and presses the 
 
 ![](Resources\news_site_1.png)
 
-This is amazing! Everything Robin's been working on has worked. all of the information has been collected into one location and presented in exactly the clear and concise way Robin had wanted.
+This is amazing! Everything Robin's been working on has worked. All of the information has been collected into one location and presented in exactly the clear and concise way Robin had wanted.
